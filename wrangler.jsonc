@@ -1,0 +1,8 @@
+{
+  "name": "b-sideu",
+  "compatibility_date": "2026-09-19",
+  "assets": {
+    "directory": "./bsideu-website",
+    "not_found_handling": "404-page"
+  }
+}
